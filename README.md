@@ -3,6 +3,8 @@ This shows a simple Snake game using `RubyMotion` and the gem `motion-game`.
 
 Feel free give feedback etc.
 
+![Demo](https://github.com/casper91/motion-game-snake/blob/master/screen_shot.png)
+
 # How to run
 1. Clone the repository
 2. Install dependencies: `bundle install`
