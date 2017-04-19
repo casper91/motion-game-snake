@@ -1,0 +1,6 @@
+class GameConstants
+  SCENE_WIDTH = 960
+  SCENE_HEIGHT = 640
+  GAME_WIDTH = 960
+  GAME_HEIGHT = 544
+end

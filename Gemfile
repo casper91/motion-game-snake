@@ -1,0 +1,19 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+gem 'motion-game', '~> 1.1.14'
+#gem 'motion-game', path: '../motion-game'
+# Add your dependencies for all platform here:
+
+
+group :ios do
+  # Add your dependencies for only iOS platform in this group:
+end
+
+group :tvos do
+  # Add your dependencies for only tvOS platform in this group:
+end
+
+group :android do
+  # Add your dependencies for only Android platform in this group:
+end
